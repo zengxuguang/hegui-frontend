@@ -1,4 +1,3 @@
-# OpenSpec: planning is externalized to the hegui-specs store.
+﻿# OpenSpec: planning is externalized to the hegui-specs store.
 # All openspec commands in this repo act on that store.
-schema: spec-driven
 store: hegui-specs
